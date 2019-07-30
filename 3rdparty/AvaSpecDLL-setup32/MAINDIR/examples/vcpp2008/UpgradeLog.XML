@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Test">
+</Property><Property Name="Solution File" Value="C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\vcpp2008\Test.sln">
+</Property><Property Name="Date" Value="4 марта 2016 г.">
+</Property><Property Name="Time" Value="15:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Test.sln" Description="File successfully backed up as C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\vcpp2008\Test.sln.old">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test.vcproj" Description="Converting project file 'C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\vcpp2008\Test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test.vcproj" Description="Done converting to new project file 'C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\vcpp2008\Test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Test.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Test.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,104 @@
+[Version]
+Signature = "$Windows NT$"
+Class =AvantesSpectrometers
+ClassGuid={2e89ec1b-56c5-476c-a516-c4268b3fbfde}
+Provider = %ProviderName%
+DriverVer=04/14/2015,1.8.0.0
+CatalogFile=AvaSpec_winusb.cat
+
+; ========== Manufacturer/Models sections ===========
+
+[Manufacturer]
+%ProviderName% = Avantes,NTx86,NTamd64
+
+[Avantes.NTx86]
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0667&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0668&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0669&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_0471&PID_0667&REV_0000
+
+[Avantes.NTamd64]
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0667&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0668&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_1992&PID_0669&REV_0000
+%USB\MyDevice.DeviceDesc% =USB_Install, USB\VID_0471&PID_0667&REV_0000
+
+; =================== Installation ===================
+
+[ClassInstall32]
+AddReg=SampleClass_RegistryAdd
+
+[SampleClass_RegistryAdd]
+HKR,,,,%ClassName%
+
+
+;[1]
+[USB_Install]
+Include=winusb.inf
+Needs=WINUSB.NT
+
+;[2]
+[USB_Install.Services]
+Include=winusb.inf
+AddService=WinUSB,0x00000002,WinUSB_ServiceInstall
+
+;[3]
+[WinUSB_ServiceInstall]
+DisplayName     = %WinUSB_SvcDesc%
+ServiceType     = 1
+StartType       = 3
+ErrorControl    = 1
+ServiceBinary   = %12%\WinUSB.sys
+
+;[4]
+[USB_Install.Wdf]
+KmdfService=WINUSB, WinUsb_Install
+
+[WinUSB_Install]
+KmdfLibraryVersion=1.9
+
+;[5]
+[USB_Install.HW]
+AddReg=Dev_AddReg
+
+[Dev_AddReg]
+HKR,,DeviceInterfaceGUIDs,0x10000,"{2967d846-1c91-4370-bab0-99a0b3711f75}"
+
+;[6]
+[USB_Install.CoInstallers]
+AddReg=CoInstallers_AddReg
+CopyFiles=CoInstallers_CopyFiles
+
+[CoInstallers_AddReg]
+HKR,,CoInstallers32,0x00010000,"WdfCoInstaller01009.dll,WdfCoInstaller","WinUSBCoInstaller2.dll"
+
+[CoInstallers_CopyFiles]
+WinUSBCoInstaller2.dll
+WdfCoInstaller01009.dll
+
+[DestinationDirs]
+CoInstallers_CopyFiles=11
+
+; ================= Source Media Section =====================
+;[7]
+
+[SourceDisksNames]
+1 = %DISK_NAME%,,,\x86
+2 = %DISK_NAME%,,,\amd64
+
+[SourceDisksFiles.x86]
+WinUSBCoInstaller2.dll=1
+WdfCoInstaller01009.dll=1
+
+[SourceDisksFiles.amd64]
+WinUSBCoInstaller2.dll=2
+WdfCoInstaller01009.dll=2
+
+; =================== Strings ===================
+
+[Strings]
+ProviderName="Avantes"
+ClassName="Avantes Spectrometers"
+USB\MyDevice.DeviceDesc="AvaSpec-USB2/3"
+WinUSB_SvcDesc="AvaSpec-USB2/3"
+DISK_NAME="Drivers"

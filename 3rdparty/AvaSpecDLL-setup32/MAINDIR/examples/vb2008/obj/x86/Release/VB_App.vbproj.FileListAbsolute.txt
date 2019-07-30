@@ -1,0 +1,13 @@
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\bin\x86\Release\VB_App.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\bin\x86\Release\VB_App.pdb
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\bin\x86\Release\VB_App.xml
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.AnalogIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.EEProm.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.DigitalIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.Form1.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.Resources.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.vbproj.GenerateResource.Cache
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.xml
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\vb2008\obj\x86\Release\VB_App.pdb

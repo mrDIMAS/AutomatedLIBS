@@ -1,0 +1,14 @@
+C:\AS5216-DLL_2.0\examples\Vc#2008\bin\x86\Release\C_Sharp_Application.exe
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\ResolveAssemblyReference.cache
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\C_Sharp_Application.AnalogIO.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\C_Sharp_Application.DigitalIO.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\C_Sharp_Application.Form1.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\C_Sharp_Application.csproj.GenerateResource.Cache
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Release\C_Sharp_Application.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\C_Sharp_Application.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\bin\x86\Release\C_Sharp_Application.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\C_Sharp_Application.AnalogIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\C_Sharp_Application.DigitalIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\C_Sharp_Application.Form1.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Release\C_Sharp_Application.csproj.GenerateResource.Cache

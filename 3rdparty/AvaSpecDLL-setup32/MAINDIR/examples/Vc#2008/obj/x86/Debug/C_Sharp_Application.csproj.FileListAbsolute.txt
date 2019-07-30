@@ -1,0 +1,37 @@
+C:\AS5216-DLL_2.0\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.exe
+C:\AS5216-DLL_2.0\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.pdb
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.AnalogIO.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.DigitalIO.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.Form1.resources
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.csproj.GenerateResource.Cache
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.exe
+C:\AS5216-DLL_2.0\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.pdb
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.pdb
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\bin\x86\Debug\C_Sharp_Application.exe
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\bin\x86\Debug\C_Sharp_Application.pdb
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.AnalogIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.DigitalIO.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.Form1.resources
+E:\Documents and Settings\mattc\Libraries\Avaspec_Library\trunk\demo\Vc#2008\obj\x86\Debug\C_Sharp_Application.csproj.GenerateResource.Cache
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.exe
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.pdb
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.exe
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.pdb
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.AnalogIO.resources
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.DigitalIO.resources
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.Form1.resources
+E:\AvaSpec-DLL_9.1\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.csproj.GenerateResource.Cache
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.exe
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.pdb
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.exe
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\bin\x86\Debug\C_Sharp_Application.pdb
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.AnalogIO.resources
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.DigitalIO.resources
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\C_Sharp_Application.Form1.resources
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\mrDIMAS\Desktop\LIBS\AvaSpecDLL-setup32\MAINDIR\examples\Vc#2008\obj\x86\Debug\ResGen.write.1.tlog

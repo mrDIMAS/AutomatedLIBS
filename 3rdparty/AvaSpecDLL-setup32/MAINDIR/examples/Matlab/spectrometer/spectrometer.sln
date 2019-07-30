@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spectrometer", "spectrometer.vcproj", "{25F8AE79-ACDD-40B3-8E53-32B00CF7025E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{25F8AE79-ACDD-40B3-8E53-32B00CF7025E}.Debug.ActiveCfg = Debug|Win32
+		{25F8AE79-ACDD-40B3-8E53-32B00CF7025E}.Debug.Build.0 = Debug|Win32
+		{25F8AE79-ACDD-40B3-8E53-32B00CF7025E}.Release.ActiveCfg = Release|Win32
+		{25F8AE79-ACDD-40B3-8E53-32B00CF7025E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
